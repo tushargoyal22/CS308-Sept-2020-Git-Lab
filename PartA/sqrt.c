@@ -5,7 +5,7 @@ positive number. */
 #include <stdlib.h>
 #include <math.h>
 
-
+// Tushar Goyal - B18030 - Upcoming Intern @ Walmart
 int main(int argc, char* argv[]) {
 
 	if (argc != 2) {
